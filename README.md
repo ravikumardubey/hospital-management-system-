@@ -11,5 +11,7 @@ This Facility Management System Project in PHP, in particular, is primarily conc
 * ID      :  YDS7L
 * Password:
 
-#
+#Detail :-
+ * PHP 7 Codegnitor 3.1  
+ * Database mysql
 
