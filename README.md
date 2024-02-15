@@ -15,3 +15,10 @@ This Facility Management System Project in PHP, in particular, is primarily conc
  * PHP 7 Codegnitor 3.1  
  * Database mysql
 
+![Home page](1.png)
+![login page](2.png)
+![password change password](3.png)
+![myimage-alt-tag](4.png)
+![myimage-alt-tag](5.png)
+
+
